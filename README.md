@@ -1,1 +1,1 @@
-This is the repo for the london borough case study.
+This is the repo for Springboard coursework.
